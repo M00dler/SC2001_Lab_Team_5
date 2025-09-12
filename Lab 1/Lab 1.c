@@ -2,7 +2,7 @@ int insertSort(int *arr)
 {
 }
 
-int mergeSort(int *arr, int S)
+int mergeSort(int arr[], int S)
 {
     int n = sizeof(arr) / sizeof(arr[0]);
 
@@ -27,5 +27,5 @@ int mergeSort(int *arr, int S)
     int i = 0;
     int j = 0;
 
-    for ()
+    // for ()
 }
